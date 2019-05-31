@@ -1,0 +1,452 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <rdf:Description rdf:about="http://ceur-ws.org/Vol-2184/paper-03.pdf">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>CEUR Workshop Proceedings</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>2184</prism:volume>
+                <dc:title>Proceedings of the Second Workshop on Enabling Open Semantic Science co-located with 17th International Semantic Web Conference, SemSci@ISWC 2018, Monterey, California, USA, October 8-12th, 2018</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>CEUR-WS.org</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vargas-Acosta</foaf:surname>
+                        <foaf:givenname>Raul Alejandro</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chavira</foaf:surname>
+                        <foaf:givenname>Luis Garnica</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villanueva-Rosales</foaf:surname>
+                        <foaf:givenname>Natalia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pennington</foaf:surname>
+                        <foaf:givenname>Deana</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garijo</foaf:surname>
+                        <foaf:givenname>Daniel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villanueva-Rosales</foaf:surname>
+                        <foaf:givenname>Natalia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kuhn</foaf:surname>
+                        <foaf:givenname>Tobias</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kauppinen</foaf:surname>
+                        <foaf:givenname>Tomi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dumontier</foaf:surname>
+                        <foaf:givenname>Michel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ceur-ws.org/Vol-2184/paper-03.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>25–33</bib:pages>
+        <dc:date>2018</dc:date>
+        <dcterms:dateSubmitted>2019-05-31 19:51:27</dcterms:dateSubmitted>
+        <z:libraryCatalog>DBLP Computer Science Bibliography</z:libraryCatalog>
+        <dc:title>Towards SWIM Narratives for Sustainable Water Management</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1109/ISC2.2018.8656975</dc:identifier>
+                <dc:title>2018 IEEE International Smart Cities Conference (ISC2)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vechione</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marrufo</foaf:surname>
+                        <foaf:givenname>Corina</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vargas-Acosta</foaf:surname>
+                        <foaf:givenname>Raul Alejandro</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jimenez-Velasco</foaf:surname>
+                        <foaf:givenname>Maria Guadalupe</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gurbuz</foaf:surname>
+                        <foaf:givenname>Okan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dmitriyeva</foaf:surname>
+                        <foaf:givenname>A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheu</foaf:surname>
+                        <foaf:givenname>R. L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villanueva-Rosales</foaf:surname>
+                        <foaf:givenname>Natalia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nunez-Mchiri</foaf:surname>
+                        <foaf:givenname>G. G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chow</foaf:surname>
+                        <foaf:givenname>J. Y. J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_5"/>
+        <link:link rdf:resource="#item_4"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>El Paso</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Instruments</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mobile application</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile applications</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mobile computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>mobile devices</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>seniors</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>smart cities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>smart mobility</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>smart phones</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Smart phones</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tools</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Transportation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Urban areas</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <bib:pages>1-8</bib:pages>
+        <dc:date>Sep. 2018</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2018 IEEE International Smart Cities Conference (ISC2)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <dcterms:abstract>Many older adults or seniors face mobility issues as they age, for example, switching from driving to using carpool, taxi, or staying on fixed routes. Seniors require responsive transportation services to attend activities. Unfortunately, there are limited tools to assist seniors to find the most appropriate transportation options given their mobility needs (e.g., inability to walk long distances, use of a cane). Mobile devices (e.g. smartphones, tablets, etc.) have demonstrated to be a useful tool to provide real-time information that has the potential to assist seniors with mobility challenges. This paper focuses on investigating senior citizens' mobility needs in El Paso, Texas and New York City, New York in order to define the requirements and recommendations for an ad-hoc solution on smart mobility for seniors, using state-of-the-art mobile technologies. In order to identify the main concerns and requirements to assist in mobility of seniors, a survey was conducted at various senior recreation centers across El Paso and New York City with a total of 458 and 61 responses, respectively. Survey results indicate that: (i) the most required assistance for seniors is the avoidance of traffic congestion; (ii) the majority of seniors who own mobile devices are not using the available applications or functions to meet their mobility needs; and (iii) seniors indicated that they prefer mobile applications that are easy and intuitive to use. These findings provide additional insights to those from previous surveys. We provide recommendations for researchers and developers interested in creating solutions for mobility of seniors based on these findings and the interactions with seniors when the survey was performed.</dcterms:abstract>
+        <dc:title>Smart Mobility for Seniors: Challenges and Solutions in El Paso, TX, and New York, NY</dc:title>
+        <z:shortTitle>Smart Mobility for Seniors</z:shortTitle>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ieeexplore.ieee.org/document/8656975</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-05-31 19:52:25</dcterms:dateSubmitted>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/ielx7/8651074/8656657/08656975.pdf?tp=&amp;arnumber=8656975&amp;isnumber=8656657&amp;ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50Lzg2NTY5NzU=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-05-31 19:52:18</dcterms:dateSubmitted>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="#item_6">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Pasadena California</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ornelas</foaf:surname>
+                        <foaf:givenname>Daniel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robles</foaf:surname>
+                        <foaf:givenname>D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ponce de Leon</foaf:surname>
+                        <foaf:givenname>S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Herrera-Vidales</foaf:surname>
+                        <foaf:givenname>V</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mondragon</foaf:surname>
+                        <foaf:givenname>Oscar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flores</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orozco</foaf:surname>
+                        <foaf:givenname>M.F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Espinoza</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villanueva-Rosales</foaf:surname>
+                        <foaf:givenname>Natalia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:date>10/19/2018</dc:date>
+        <z:type>Poster</z:type>
+        <z:meetingName>HEENAC Great Minds in STEM</z:meetingName>
+        <dc:title>Silver Connection: A Smart Solution for Senior Connectedness</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:ConferenceProceedings rdf:about="#item_7">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Pasadena California</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hernandez</foaf:surname>
+                        <foaf:givenname>Manuel Armando</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orozco</foaf:surname>
+                        <foaf:givenname>D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Castillo</foaf:surname>
+                        <foaf:givenname>E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villanueva-Rosales</foaf:surname>
+                        <foaf:givenname>Natalia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orozco</foaf:surname>
+                        <foaf:givenname>L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larios Rosillo</foaf:surname>
+                        <foaf:givenname>Victor Manuel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:date>10/19/2018</dc:date>
+        <z:type>Poster</z:type>
+        <z:meetingName>HEENAC Great Minds in STEM</z:meetingName>
+        <dc:title>Towards Improved Mobility in Urban Areas Under Flooding Conditions Using Image Processing</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:ConferenceProceedings rdf:about="#item_8">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Prague, CZ.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheu</foaf:surname>
+                        <foaf:givenname>R. L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villanueva-Rosales</foaf:surname>
+                        <foaf:givenname>Natalia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larios Rosillo</foaf:surname>
+                        <foaf:givenname>Victor Manuel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arrellano</foaf:surname>
+                        <foaf:givenname>M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mondragon</foaf:surname>
+                        <foaf:givenname>Oscar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferregut</foaf:surname>
+                        <foaf:givenname>C. M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mendoza</foaf:surname>
+                        <foaf:givenname>L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:date>05/26/2018</dc:date>
+        <z:type>Poster</z:type>
+        <z:meetingName>Smart Cities Symposium in Prague 2018</z:meetingName>
+        <dc:title>An international interdisciplinary study abroad program on smart cities</dc:title>
+    </bib:ConferenceProceedings>
+</rdf:RDF>
